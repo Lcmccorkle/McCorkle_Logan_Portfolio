@@ -8,7 +8,7 @@ Name: Loagn McCorkle
 
 Phone: Private
 
-E-mail: Private
+E-mail: Please reachout to me on LinkedIn
 
 Skills:
 
