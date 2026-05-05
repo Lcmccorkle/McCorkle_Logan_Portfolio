@@ -1,4 +1,4 @@
-# McCorkle_Logan_Portfolio
+# Logan McCorkle Portfolio
 This is a Collection for Logan McCorkle's Portfolio.
 
 
