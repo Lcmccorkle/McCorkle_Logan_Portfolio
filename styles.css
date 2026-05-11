@@ -21,6 +21,12 @@ header {
     margin-top: 1rem;
 }
 
+.location {
+    font-size: 1.1rem;
+    margin: 8px 0 12px 0;
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 500;
+}
 .tab-button {
     padding: 0.75rem 1.5rem;
     background: #444;
